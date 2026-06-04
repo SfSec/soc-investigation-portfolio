@@ -1,13 +1,13 @@
 # SOC Investigation Portfolio
 
-# Kristijan — SOC Investigation Portfolio
+# SfSec — SOC Investigation Portfolio
 
 **`[Brisbane, Australia]`** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/kristijan-i-6862b8201/)** &nbsp;
 
 ---
 
 ## About Me
-Hi, I'm Kristijan. I come from an IT and security background — auditing, support, and identity work across the Microsoft stack — and I'm now focused on security operations. These days I spend my time investigating incidents in a simulated SOC (Sentinel, BEC cases) and building out detection projects, working toward a SOC analyst role. The repos here are where I show that work rather than just describe it.
+Hi, I'm SfSec. I come from an IT and security background — auditing, support, and identity work across the Microsoft stack — and I'm now focused on security operations. These days I spend my time investigating incidents in a simulated SOC (Sentinel, BEC cases) and building out detection projects, working toward a SOC analyst role. The repos here are where I show that work rather than just describe it.
 
 ---
 
