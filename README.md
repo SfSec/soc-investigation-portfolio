@@ -40,7 +40,7 @@ The investigations here demonstrate practical ability in:
 
 | #   | Case Name        | Category                        | Date       |
 | --- | ---------------- | ------------------------------- | ---------- |
-| 001 | Project Victoria | Business Email Compromise (BEC) | 02/05/2026 |
+| 001 | [Project Victoria](https://github.com/SfSec/soc-investigation-portfolio/blob/main/bec/BEC_Investigation_projectvictoria.docx) | Business Email Compromise (BEC) | 02/05/2026 |
 
 ---
 
