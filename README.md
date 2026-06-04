@@ -1,15 +1,13 @@
+# SOC Investigation Portfolio
 
+# Kristijan — SOC Investigation Portfolio
 
-# [Your Name] — SOC Investigation Portfolio
-
-**`[City, Country]`** &nbsp;|&nbsp; **`[LinkedIn URL]`** &nbsp;|&nbsp; **`[Email (optional)]`**
+**`[Brisbane, Australia]`** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/kristijan-i-6862b8201/)** &nbsp;
 
 ---
 
 ## About Me
-
-<!-- 2-3 sentences. Who are you, where are you coming from, and what are you working toward?
-     Be direct — this isn't a cover letter, it's a quick orientation for whoever is reading. -->
+Hi, I'm Kristijan. I come from an IT and security background — auditing, support, and identity work across the Microsoft stack — and I'm now focused on security operations. These days I spend my time investigating incidents in a simulated SOC (Sentinel, BEC cases) and building out detection projects, working toward a SOC analyst role. The repos here are where I show that work rather than just describe it.
 
 ---
 
@@ -33,16 +31,16 @@ The investigations here demonstrate practical ability in:
 
 ### Alert Investigations
 
-| # | Alert Name | Category | Verdict | Date |
-|---|---|---|---|---|
-| 001 | | | | |
-| 002 | | | | |
+| #   | Alert Name | Category | Verdict | Date |
+| --- | ---------- | -------- | ------- | ---- |
+| 001 |            |          |         |      |
+| 002 |            |          |         |      |
 
 ### Case Drops
 
-| # | Case Name | Date |
-|---|---|---|
-| 001 | | | |
+| #   | Case Name        | Category                        | Date       |
+| --- | ---------------- | ------------------------------- | ---------- |
+| 001 | Project Victoria | Business Email Compromise (BEC) | 02/05/2026 |
 
 ---
 
